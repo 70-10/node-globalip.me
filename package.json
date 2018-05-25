@@ -1,0 +1,20 @@
+{
+  "name": "globalip.me",
+  "version": "1.0.0",
+  "description": "Get globalip",
+  "main": "index.js",
+  "bin": {
+    "global-ip": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "globalip.me"
+  ],
+  "author": "70_10",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^8.3.1"
+  }
+}
