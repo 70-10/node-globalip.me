@@ -4,10 +4,10 @@
   "description": "Get globalip",
   "main": "index.js",
   "bin": {
-    "global-ip": "index.js"
+    "global-ip": "cli.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node cli.js"
   },
   "keywords": [
     "globalip.me"
